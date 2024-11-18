@@ -213,7 +213,8 @@ h1. Images
 
 Textile inline image syntax, like
 here !this_is_an_image.png(this is the alt text)!
-and here !this_is_an_image.png!.
+and here !this_is_an_image.png!
+and here !{border:2px black}(class#id)this_is_an_image.png(this is the alt text)!
 
 h1. Attributes
 
